@@ -19,9 +19,9 @@ Air Pollution Control,0,0,1,0,0,0,0,0,0
 Algorithms,0,0,0,0,0,0,0,1,0
 All Markets,0,0,0,0,0,0,0,1,0
 All Students,0,0,0,0,0,0,0,1,0
-Alter0tive Medicine,0,0,0,0,1,0,0,0,0
+Alternative Medicine,0,0,0,0,1,0,0,0,0
 Alumni,0,0,0,0,0,0,0,1,0
-A0lytics,0,0,0,0,0,0,0,0,1
+Analytics,0,0,0,0,0,0,0,0,1
 Android,0,0,0,0,0,0,0,0,1
 Angels,0,0,0,0,0,0,0,1,0
 Animal Feed,0,0,0,0,1,0,0,0,0
@@ -58,7 +58,7 @@ Batteries,0,0,0,0,0,1,0,0,0
 Beauty,0,0,0,0,1,0,0,0,0
 Bicycles,1,0,0,0,0,0,0,0,0
 Big Data,0,0,0,0,0,0,0,0,1
-Big Data A0lytics,0,0,0,0,0,0,0,0,1
+Big Data Analytics,0,0,0,0,0,0,0,0,1
 Billing,0,0,0,0,0,0,0,0,1
 Bio-Pharm,0,0,1,0,0,0,0,0,0
 Biofuels,0,0,1,0,0,0,0,0,0
@@ -78,7 +78,7 @@ Brokers,0,0,0,0,0,0,1,0,0
 Browser Extensions,0,0,0,0,0,0,1,0,0
 Building Owners,0,0,0,0,0,0,1,0,0
 Building Products,0,0,0,0,0,1,0,0,0
-Business A0lytics,0,0,0,0,0,0,0,0,1
+Business Analytics,0,0,0,0,0,0,0,0,1
 Business Development,0,0,0,0,0,0,0,0,1
 Business Information Systems,0,0,0,0,0,0,0,0,1
 Business Intelligence,0,0,0,0,0,0,0,0,1
@@ -88,9 +88,9 @@ Business Travelers,0,0,0,1,0,0,0,0,0
 Cable,0,0,0,0,0,0,1,0,0
 CAD,1,0,0,0,0,0,0,0,0
 Call Center Automation,0,0,0,0,0,0,1,0,0
-Can0bis,0,0,0,0,1,0,0,0,0
+Cannabis,0,0,0,0,1,0,0,0,0
 Carbon,0,0,1,0,0,0,0,0,0
-Career Ma0gement,0,0,0,0,0,0,0,0,1
+Career Management,0,0,0,0,0,0,0,0,1
 Career Planning,0,0,0,0,0,0,0,0,1
 Cars,1,0,0,0,0,0,0,0,0
 Casual Games,0,0,0,1,0,0,0,0,0
@@ -102,7 +102,7 @@ Charter Schools,0,0,0,0,0,0,0,0,1
 Chat,0,0,0,0,0,0,1,0,0
 Chemicals,0,0,1,0,0,0,0,0,0
 Child Care,0,0,0,0,1,0,0,0,0
-Chi0 Internet,0,0,0,0,0,0,1,0,0
+China Internet,0,0,0,0,0,0,1,0,0
 Civil Engineers,0,0,0,0,0,1,0,0,0
 Classifieds,0,0,0,0,0,0,1,0,0
 Clean Energy,0,0,1,0,0,0,0,0,0
@@ -113,7 +113,7 @@ Cloud-Based Music,0,0,0,0,0,0,1,0,0
 Cloud Computing,0,0,0,0,0,0,1,0,0
 Cloud Data Services,0,0,0,0,0,0,1,0,0
 Cloud Infrastructure,0,0,0,0,0,0,1,0,0
-Cloud Ma0gement,0,0,0,0,0,0,1,0,0
+Cloud Management,0,0,0,0,0,0,1,0,0
 Cloud Security,0,0,0,0,0,0,1,0,0
 Coffee,0,0,0,1,0,0,0,0,0
 Collaboration,0,0,0,0,0,0,0,0,1
@@ -144,7 +144,7 @@ Consumer Internet,0,0,0,0,0,0,0,0,1
 Consumer Lending,0,0,0,0,0,0,0,0,1
 Consumers,0,0,0,0,0,0,0,0,1
 Contact Centers,0,0,0,0,0,0,0,0,1
-Contact Ma0gement,0,0,0,0,0,0,0,0,1
+Contact Management,0,0,0,0,0,0,0,0,1
 Content,0,0,0,1,0,0,0,0,0
 Content Creators,0,0,0,1,0,0,0,0,0
 Content Delivery,0,0,0,1,0,0,0,0,0
@@ -197,8 +197,8 @@ Diagnostics,0,0,0,0,1,0,0,0,0
 Dietary Supplements,0,0,0,0,1,0,0,0,0
 Digital Entertainment,0,0,0,1,0,0,0,0,0
 Digital Media,0,0,0,1,0,0,0,0,0
-Digital Rights Ma0gement,0,0,0,1,0,0,0,0,0
-Digital Sig0ge,0,0,0,1,0,0,0,0,0
+Digital Rights Management,0,0,0,1,0,0,0,0,0
+Digital Signage,0,0,0,1,0,0,0,0,0
 Direct Advertising,0,0,0,0,0,0,0,0,1
 Direct Marketing,0,0,0,0,0,0,1,0,0
 Direct Sales,0,0,0,0,0,0,1,0,0
@@ -209,7 +209,7 @@ Distribution,0,0,0,0,0,0,0,1,0
 Distributors,0,0,0,0,0,0,0,1,0
 DIY,0,0,0,0,0,0,0,1,0
 Doctors,0,0,0,0,1,0,0,0,0
-Document Ma0gement,0,0,0,0,0,0,0,1,0
+Document Management,0,0,0,0,0,0,0,1,0
 DOD/Military,0,0,0,0,0,1,0,0,0
 Domains,0,0,0,0,0,0,1,0,0
 Drones,1,0,0,0,0,0,0,0,0
@@ -222,7 +222,7 @@ EDA Tools,0,0,0,0,0,0,0,1,0
 Ediscovery,0,0,0,0,0,0,0,1,0
 EdTech,0,0,0,0,0,0,0,1,0
 Education,0,0,0,0,0,0,0,1,0
-Educatio0l Games,0,0,0,1,0,0,0,0,0
+Educational Games,0,0,0,1,0,0,0,0,0
 Edutainment,0,0,0,1,0,0,0,0,0
 Elder Care,0,0,0,0,1,0,0,0,0
 Electric Vehicles,1,0,0,0,0,0,0,0,0
@@ -239,10 +239,10 @@ Employment,0,0,0,0,0,0,0,1,0
 Energy,0,0,1,0,0,0,0,0,0
 Energy Efficiency,0,0,1,0,0,0,0,0,0
 Energy IT,0,0,1,0,0,0,0,0,0
-Energy Ma0gement,0,0,1,0,0,0,0,0,0
+Energy Management,0,0,1,0,0,0,0,0,0
 Energy Storage,0,0,1,0,0,0,0,0,0
 Engineering Firms,0,0,0,0,0,0,0,1,0
-Enterprise 2.0,0,0,0,0,0,0,0,1,0
+Enterprise 2.na,0,0,0,0,0,0,0,1,0
 Enterprise Application,0,0,0,0,0,0,0,1,0
 Enterprise Purchasing,0,0,0,0,0,0,0,0,1
 Enterprise Resource Planning,0,0,0,0,0,0,0,1,0
@@ -255,7 +255,7 @@ Entertainment Industry,0,0,0,1,0,0,0,0,0
 Entrepreneur,0,0,0,0,0,0,0,1,0
 Environmental Innovation,0,0,1,0,0,0,0,0,0
 Estimation and Quoting,0,0,0,0,0,0,0,0,1
-Event Ma0gement,0,0,0,1,0,0,0,0,0
+Event Management,0,0,0,1,0,0,0,0,0
 Events,0,0,0,1,0,0,0,0,0
 Exercise,0,0,0,0,1,0,0,0,0
 Eyewear,0,0,0,0,1,0,0,0,0
@@ -272,15 +272,15 @@ File Sharing,0,0,0,0,0,0,0,1,0
 Film,0,0,0,1,0,0,0,0,0
 Film Distribution,0,0,0,1,0,0,0,0,0
 Film Production,0,0,0,1,0,0,0,0,0
-Fi0nce,0,0,0,0,0,0,0,0,1
-Fi0nce Technology,0,0,0,0,0,0,0,0,1
-Fi0ncial Exchanges,0,0,0,0,0,0,0,0,1
-Fi0ncial Services,0,0,0,0,0,0,0,0,1
+Finance,0,0,0,0,0,0,0,0,1
+Finance Technology,0,0,0,0,0,0,0,0,1
+Financial Exchanges,0,0,0,0,0,0,0,0,1
+Financial Services,0,0,0,0,0,0,0,0,1
 FinTech,0,0,0,0,0,0,0,0,1
 Fitness,0,0,0,0,1,0,0,0,0
 Flash Sales,0,0,0,0,0,0,0,1,0
 Flash Storage,0,0,0,0,0,0,0,1,0
-Fleet Ma0gement,0,0,0,0,0,0,0,1,0
+Fleet Management,0,0,0,0,0,0,0,1,0
 Flowers,0,0,0,0,0,0,0,1,0
 Fmcg,0,0,0,0,0,1,0,0,0
 Food Processing,0,0,0,0,0,1,0,0,0
@@ -309,7 +309,7 @@ Gift Card,0,0,0,0,0,0,0,1,0
 Gift Exchange,0,0,0,0,0,0,0,1,0
 Gift Registries,0,0,0,0,0,0,0,1,0
 Gold,0,0,0,0,0,0,0,0,1
-Gover0nce,0,0,0,0,0,0,0,1,0
+Governance,0,0,0,0,0,0,0,1,0
 Government Innovation,0,0,0,0,0,0,0,1,0
 Governments,0,0,0,0,0,0,0,1,0
 Gps,0,0,0,0,0,0,1,0,0
@@ -352,7 +352,7 @@ Humanitarian,0,0,0,0,0,0,0,1,0
 IaaS,0,0,0,0,0,0,0,1,0
 ICT,0,0,0,0,0,0,0,1,0
 Identity,0,0,0,0,0,0,0,1,0
-Identity Ma0gement,0,0,0,0,0,0,0,0,1
+Identity Management,0,0,0,0,0,0,0,0,1
 Image Recognition,0,0,0,0,0,0,0,0,1
 Impact Investing,0,0,0,0,0,0,0,0,1
 In-Flight Entertainment,0,0,0,1,0,0,0,0,0
@@ -369,9 +369,9 @@ Information Services,0,0,0,0,0,0,0,0,1
 Information Technology,0,0,0,0,0,0,0,0,1
 Infrastructure,0,0,0,0,0,0,0,0,1
 Innovation Engineering,0,0,0,0,0,0,0,0,1
-Innovation Ma0gement,0,0,0,0,0,0,0,0,1
+Innovation Management,0,0,0,0,0,0,0,0,1
 Insurance,0,0,0,0,0,0,0,0,1
-Intellectual Asset Ma0gement,0,0,0,0,0,0,0,1,0
+Intellectual Asset Management,0,0,0,0,0,0,0,1,0
 Intellectual Property,0,0,0,0,0,0,0,1,0
 Intelligent Systems,0,0,0,0,0,0,0,1,0
 Interest Graph,0,0,0,0,0,0,0,1,0
@@ -383,23 +383,23 @@ Internet Marketing,0,0,0,0,0,0,0,0,1
 Internet of Things,0,0,0,0,0,0,0,0,1
 Internet Radio Market,0,0,0,0,0,0,1,0,0
 Internet Service Providers,0,0,0,0,0,0,1,0,0
-Investment Ma0gement,0,0,0,0,0,0,0,0,1
+Investment Management,0,0,0,0,0,0,0,0,1
 iOS,0,0,0,0,0,0,0,1,0
 iPad,0,0,0,0,0,0,0,1,0
 iPhone,0,0,0,0,0,0,0,1,0
 IT and Cybersecurity,0,0,0,0,0,0,0,1,0
-IT Ma0gement,0,0,0,0,0,0,0,1,0
+IT Management,0,0,0,0,0,0,0,1,0
 Jewelry,0,0,0,1,0,0,0,0,0
-Jour0lism,0,0,0,0,0,0,1,0,0
+Journalism,0,0,0,0,0,0,1,0,0
 K-12 Education,0,0,0,0,0,0,0,1,0
 Kids,0,0,0,0,0,0,0,1,0
-Knowledge Ma0gement,0,0,0,0,0,0,0,1,0
+Knowledge Management,0,0,0,0,0,0,0,1,0
 Landscaping,0,0,0,0,0,0,0,1,0
 Language Learning,0,0,0,0,0,0,0,1,0
 Lasers,0,0,0,0,1,0,0,0,0
 Law Enforcement,0,0,0,0,0,0,0,1,0
 Lead Generation,0,0,0,0,0,0,0,1,0
-Lead Ma0gement,0,0,0,0,0,0,0,1,0
+Lead Management,0,0,0,0,0,0,0,1,0
 Legal,0,0,0,0,0,0,0,1,0
 Leisure,0,0,0,1,0,0,0,0,0
 Licensing,0,0,0,0,0,0,0,1,0
@@ -436,7 +436,7 @@ Mechanical Solutions,0,0,1,0,0,0,0,0,0
 Media,0,0,0,1,0,0,0,0,0
 Medical,0,0,0,0,1,0,0,0,0
 Medical Devices,0,0,0,0,1,0,0,0,0
-Medical Professio0ls,0,0,0,0,1,0,0,0,0
+Medical Professionals,0,0,0,0,1,0,0,0,0
 Meeting Software,0,0,0,0,0,0,1,0,0
 Mens Specific,0,0,0,0,1,0,0,0,0
 Messaging,0,0,0,0,0,0,1,0,0
@@ -447,7 +447,7 @@ Minerals,0,0,1,0,0,0,0,0,0
 Mining Technologies,0,0,1,0,0,0,0,0,0
 Mobile,0,0,0,0,0,0,1,0,0
 Mobile Advertising,0,0,0,0,0,0,0,0,1
-Mobile A0lytics,0,0,0,0,0,0,0,0,1
+Mobile Analytics,0,0,0,0,0,0,0,0,1
 Mobile Commerce,0,0,0,0,0,0,0,0,1
 Mobile Devices,0,0,0,0,0,0,1,0,0
 Mobile Enterprise,0,0,0,0,0,0,1,0,0
@@ -470,10 +470,10 @@ Music Services,0,0,0,1,0,0,0,0,0
 Music Venues,0,0,0,1,0,0,0,0,0
 Musical Instruments,0,0,0,1,0,0,0,0,0
 Musicians,0,0,0,1,0,0,0,0,0
-0notechnology,0,0,1,0,0,0,0,0,0
-0tural Language Processing,0,0,1,0,0,0,0,0,0
-0tural Resources,0,0,1,0,0,0,0,0,0
-0vigation,0,0,0,0,0,0,1,0,0
+nanotechnology,0,0,1,0,0,0,0,0,0
+natural Language Processing,0,0,1,0,0,0,0,0,0
+natural Resources,0,0,1,0,0,0,0,0,0
+navigation,0,0,0,0,0,0,1,0,0
 Network Security,0,0,0,0,0,0,0,1,0
 Networking,0,0,0,0,0,0,0,1,0
 Neuroscience,0,0,0,0,1,0,0,0,0
@@ -513,11 +513,11 @@ Parking,0,0,0,0,0,0,0,1,0
 Payments,0,0,0,0,0,0,0,0,1
 Peer-to-Peer,0,0,0,0,0,0,1,0,0
 Performance Marketing,0,0,0,0,0,0,0,0,1
-Perso0l Branding,0,0,0,0,0,0,0,0,1
-Perso0l Data,0,0,0,0,0,0,0,1,0
-Perso0l Fi0nce,0,0,0,0,0,0,0,0,1
-Perso0l Health,0,0,0,0,1,0,0,0,0
-Perso0lization,0,0,0,0,0,0,0,1,0
+Personal Branding,0,0,0,0,0,0,0,0,1
+Personal Data,0,0,0,0,0,0,0,1,0
+Personal Finance,0,0,0,0,0,0,0,0,1
+Personal Health,0,0,0,0,1,0,0,0,0
+Personalization,0,0,0,0,0,0,0,1,0
 Pervasive Computing,0,0,0,0,0,0,0,1,0
 Pets,0,0,0,0,1,0,0,0,0
 Pharmaceuticals,0,0,0,0,1,0,0,0,0
@@ -533,7 +533,7 @@ Polling,0,0,0,0,0,0,0,1,0
 Portals,0,0,0,0,0,0,0,1,0
 Postal and Courier Services,0,0,0,0,0,0,0,1,0
 Pre Seed,0,0,0,0,0,0,0,0,1
-Predictive A0lytics,0,0,0,0,0,0,0,0,1
+Predictive Analytics,0,0,0,0,0,0,0,0,1
 Presentations,0,0,0,0,0,0,0,1,0
 Price Comparison,0,0,0,0,0,0,0,0,1
 Printing,0,0,0,0,0,0,0,1,0
@@ -545,11 +545,11 @@ Product Design,0,0,0,0,0,0,0,1,0
 Product Development Services,0,0,0,0,0,0,0,1,0
 Productivity,0,0,0,0,0,0,0,1,0
 Productivity Software,0,0,0,0,0,0,0,1,0
-Professio0l Networking,0,0,0,0,0,0,1,0,0
-Professio0l Services,0,0,0,0,0,0,0,1,0
-Project Ma0gement,0,0,0,0,0,0,0,1,0
-Promotio0l,0,0,0,0,0,0,0,0,1
-Property Ma0gement,0,0,0,0,0,0,0,0,1
+Professional Networking,0,0,0,0,0,0,1,0,0
+Professional Services,0,0,0,0,0,0,0,1,0
+Project Management,0,0,0,0,0,0,0,1,0
+Promotional,0,0,0,0,0,0,0,0,1
+Property Management,0,0,0,0,0,0,0,0,1
 Public Relations,0,0,0,0,0,0,0,0,1
 Public Safety,0,0,0,0,1,0,0,0,0
 Public Transportation,0,0,0,0,1,0,0,0,0
@@ -574,7 +574,7 @@ Retail Technology,0,0,0,0,0,0,0,0,1
 Reviews and Recommendations,0,0,0,1,0,0,0,0,0
 RFID,0,0,0,0,0,0,0,1,0
 Ride Sharing,0,0,0,0,0,0,1,0,0
-Risk Ma0gement,0,0,0,0,0,0,0,0,1
+Risk Management,0,0,0,0,0,0,0,0,1
 Robotics,0,0,0,0,0,0,0,1,0
 SaaS,0,0,0,0,0,0,0,1,0
 Sales and Marketing,0,0,0,0,0,0,0,0,1
@@ -611,7 +611,7 @@ Social CRM,0,0,0,0,0,0,0,0,1
 Social Fundraising,0,0,0,0,0,0,0,0,1
 Social Games,0,0,0,0,0,0,0,0,1
 Social Media,0,0,0,0,0,0,0,0,1
-Social Media Ma0gement,0,0,0,0,0,0,0,0,1
+Social Media Management,0,0,0,0,0,0,0,0,1
 Social Media Marketing,0,0,0,0,0,0,0,0,1
 Social Media Platforms,0,0,0,0,0,0,0,0,1
 Social Network Media,0,0,0,0,0,0,0,0,1
@@ -632,11 +632,11 @@ Startups,0,0,0,0,0,0,0,1,0
 Stock Exchanges,0,0,0,0,0,0,0,0,1
 Storage,0,0,0,0,0,1,0,0,0
 Subscription Service,0,0,0,0,0,0,0,1,0
-Supply Chain Ma0gement,0,0,0,0,0,0,0,1,0
+Supply Chain Management,0,0,0,0,0,0,0,1,0
 Surveys,0,0,0,0,0,0,0,1,0
 Synchronization,0,0,0,0,0,0,0,1,0
 Systems,0,0,0,0,0,0,0,1,0
-Task Ma0gement,0,0,0,0,0,0,0,1,0
+Task Management,0,0,0,0,0,0,0,1,0
 Taxis,0,0,0,0,0,0,0,1,0
 Tea,0,0,0,0,0,0,0,1,0
 Technology,0,0,0,0,0,0,0,1,0
@@ -663,7 +663,7 @@ User Interface,0,0,0,0,0,0,0,1,0
 Utilities,0,0,0,0,0,0,0,1,0
 Vending and Concessions,0,0,0,0,0,0,0,1,0
 Venture Capital,0,0,0,0,0,0,0,0,1
-Veteri0ry,0,0,0,0,1,0,0,0,0
+Veterinary,0,0,0,0,1,0,0,0,0
 Video,0,0,0,1,0,0,0,0,0
 Video Conferencing,0,0,0,1,0,0,0,0,0
 Video Games,0,0,0,1,0,0,0,0,0
@@ -671,7 +671,7 @@ Video on Demand,0,0,0,1,0,0,0,0,0
 Video Streaming,0,0,0,1,0,0,0,0,0
 Virtual Workforces,0,0,0,1,0,0,0,0,0
 VoIP,0,0,0,1,0,0,0,0,0
-Waste Ma0gement,0,0,1,0,0,0,0,0,0
+Waste Management,0,0,1,0,0,0,0,0,0
 Watch,0,0,0,0,0,0,0,1,0
 Water,0,0,1,0,0,0,0,0,0
 Water Purification,0,0,1,0,0,0,0,0,0
